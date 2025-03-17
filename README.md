@@ -103,6 +103,8 @@ Esse `README.md` fornece uma explicação detalhada do projeto, estrutura, funci
 ## 👨‍💻 Desenvolvedor
 
 Feito com ❤️ por [Ramon Lima]  
+## 🐙 Meu Octocat
+<img src="assets/octocat-1742243640618.png" alt="Meu Octocat" width="250">
  
 🐙 GitHub: [github.com/ra-lim-so](https://github.com/ra-lim-so)  
 🚀 LinkedIn: [linkedin.com/in/ramon-lima-a91729235/](https://www.linkedin.com/in/ramon-lima-a91729235/)  
